@@ -1,0 +1,255 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+html {
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+body {
+  font-family: "museo-sans", "Museo sans" Helvetica, Arial, sans-serif;
+  font-weight: 500;
+  font-size: 12pt;
+  line-height: 26px;
+  background: #fff;
+  color: #777;
+  margin: auto;
+}
+img {
+  outline: 0;
+  border: 0;
+}
+div.container{
+  width: 940px;
+  margin: auto;
+  overflow: hidden;
+}
+div.header{
+  height: 80px;
+  background-color: #000000;
+  margin-bottom: 20px;
+}
+div.header nav.navbar{
+  position: relative;
+  width: 940px;
+  margin: auto;
+  padding-top: 20px;
+}
+
+.navbar ul{
+  position: absolute;
+  top: 30px;
+  right: 0px;
+  list-style-type: none;
+}
+
+.navbar ul li{
+  font-size: 16px;
+  margin-left: 20px;
+  display: inline;
+  float: left;
+}
+
+.navbar a.title{
+  width: 500px;
+  color: #fff;
+  font-size: 26pt;
+  display: inline-block;
+  padding-top: 8px;
+}
+
+.navbar a.title:hover{
+  text-decoration: none;
+}
+
+.navbar a{
+  color: #fff;
+  text-decoration: none;
+}
+
+.navbar a:hover{
+  text-decoration: underline;
+}
+
+div.project-thumbnail{
+  position: relative;
+  overflow: hidden;
+  width: 210px;
+  height: 210px;
+  margin: 10px;
+  display: block;
+  float: left;
+}
+
+#border.project-thumbnail, .project img.border{
+  border: 2px solid black;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+}
+
+.project-thumbnail img{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  margin: 0px;
+  padding: 0px;
+  width: 210px;
+  height: 210px;
+}
+
+.project-thumbnail span#title, .project-thumbnail span#media{
+  position: absolute;
+  margin-top: -50px;
+  margin-left: 0px;
+  color: #fff;
+  background-color: #000000;
+  width: 100%;
+  display: inline-block;
+  z-index: 2;
+  transition: margin-top .33s;
+  -webkit-transition: margin-top .33s;
+}
+
+.project-thumbnail span#media{
+  bottom: -70px; 
+  transition: bottom .33s;
+  -webkit-transition: bottom .33s;
+  font-size: 10pt;
+  }
+
+.project-thumbnail span#title.active{
+  margin-top: 0px;
+}
+
+.project-thumbnail span#media.active{
+  bottom: 0px;
+}
+
+
+.project-thumbnail #title span, .project-thumbnail #media span{
+  display: inline-block;
+  padding: 5px 20px;
+}
+
+footer{
+  width: 940px;
+  margin: auto;
+  margin-top: 20px;
+  border-top: 2px solid black;
+}
+
+footer div.image-container{
+  width: 260px;
+  margin: 10px auto;
+  padding-bottom: 20px;
+}
+
+footer img{
+  width: 50px;
+  padding-right: 10px;
+}
+
+/*------------------------------------------------------------*/
+/*STYLING FOR PROJECT CONTENT*/
+
+.project p{
+  color: black;
+  font-weight: 300;
+  width: 940px;
+  margin: auto;
+  margin-bottom: 20px;
+}
+
+.project p img{
+  width: 936px;
+}
+
+.project p img.left, .project p img.right{
+  width: 456px;
+  float: left;
+  margin-bottom: 26px;
+}
+
+.project p img.right{
+  float: right;
+}
+
+.project p.text{
+  width: 800px;
+}
+
+.project a{
+  color: #8F1A22;
+
+}
+
+.project a:hover{
+}
+
+.project span.title, .resume span.title{
+  color: black;
+  font-size: 20pt;
+  margin: 20px 0px 10px 0px;
+  display: inline-block;
+}
+
+.project span.media{
+  width: 100%;
+  display: inline-block;
+  margin-bottom: 20px;
+}
+
+.project iframe{
+  width: 940px;
+  height: 540px;
+  margin: auto;
+  margin-bottom: 20px;
+  display: block;
+}
+
+/*------------------------------------------------------------*/
+/*STYLING FOR PROJECT PAGINATION*/
+
+.pagination a{
+  font-size: 12pt;
+  color: black;
+  text-decoration: none;
+}
+
+.pagination a:hover{
+  text-decoration: underline;
+}
+
+.pagination .prev{
+  float: left;
+}
+
+.pagination .next{
+  float: right;
+}
+/*------------------------------------------------------------*/
+/*STYLING FOR RESUME PAGE*/
+div.resume{
+  width: 440px;
+  margin: auto;
+  color: black;
+  margin-bottom: 20px;
+}
+
+.resume h2{
+  text-align: center;
+  margin: 35px 0px 20px 20px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid black;
+  width: 100%;
+}
+
+.resume h3{
+  margin: 10px 0px;
+}
+
+.resume p{
+  display: inline;
+}
+

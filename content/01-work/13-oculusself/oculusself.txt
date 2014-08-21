@@ -1,0 +1,12 @@
+Title: Oculus Self
+----
+Media: Software
+----
+Year: 2014
+----
+Text: 
+<iframe src="http://player.vimeo.com/video/93041922" width="720" height="540" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><br>
+
+(link: http://brannondorsey.github.io/oculusself text:Oculus Self) is a critical artware app developed for use with the (link: http://oculusvr.com text:Oculus Rift) virtual reality head mounted display (HMD). While most virtual reality applications use advanced computer graphics and 3D engines to immerse the participant in a simulated environment, Oculus Self broadcasts the user’s front-facing webcam to the stereoscopic HMD, providing them with a hyper-realistic view of themselves. 
+
+Visit the (link: http://brannondorsey.github.io/oculusself text:Oculus Self) website to download the app. Source code on (link: https://github.com/brannondorsey/oculusself text: GitHub).

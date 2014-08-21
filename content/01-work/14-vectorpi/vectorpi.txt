@@ -1,0 +1,45 @@
+Title: Vector Pi
+----
+Media: Geometric Language Encoding
+----
+Year: 2014
+----
+Text:
+
+<iframe src="http://player.vimeo.com/video/103957167" width="720" height="540" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+(image: 1_web.jpg alt: Vector Pi Image 1)
+
+(image: 2_web.jpg alt: Vector Pi Image 2)
+
+(image: english_text_01_web.jpg alt: English Text)
+
+(image: english_01_web.jpg alt: English Vector Pi)
+
+(image: turkish_text_01_web.jpg alt: Turkish Text)
+
+(image: turkish_01_web.jpg alt: Turkish Vector Pi)
+
+(image: blob_web.jpg alt: Vector Pi Blob)
+
+
+Vector Pi is a collaboration with (link: http://www.asliozdoyuran.com/home.html text: Asli Ozdoyuran) in attempt to create a geometric encoding of written language through angles and lines. In our encoding, each angle represents a single character in a word, while line segments represent whole words. Many of the above images reflect different studies or versions of Vector Pi, however they all share the same basic formula to encode text of any language:
+
+θ = (360/x) * n
+
+Where:
+θ = Angle
+x = Number of letters in the alphabet (26)
+n = Nth letter in the alphabet being represented (e.g. “a” = 14°, “b” = 28°, etc...).
+
+Images from top to bottom:
+1. (Video) Vector Pi segment of The Great Gatsby 
+2. Vector Pi segment of Moby Dick Vector Pi
+3. Close-up Moby Dick
+4. English Paragraph 1
+5. Vector Pi (English) Paragraph 1
+6. Turkish Paragraph 1
+7. Vector Pi (Turkish) Paragraph 1
+8. Vector Pi drawn with all words at the same start point.
+
+Custom software written in (link: http://openframeworks.cc text: openFrameworks) was used to generate these images. Code on (link: https://github.com/brannondorsey/vectorpi text:GitHub).
