@@ -1,0 +1,21 @@
+Title: Probe Kit
+----
+Media: Software/Installation
+----
+Year: 2015
+----
+Text: 
+
+<iframe src="https://player.vimeo.com/video/131566939?color=cc3399&amp;title=0&amp;byline=0&amp;portrait=0" width="720" height=“540” frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe><br>
+
+(link: http://probekit.io text:Probe Kit) is a critical software art project that puts a fragment of the network surveillance and collection capabilities available to larger entities in the hands of “hobbyist network data collectors.” 
+
+Probe Kit, a collaboration with (link: http://brangerbriz.com text: Branger_Briz), debuted at the eMerge Americas Conference, as an activist “artware” installation aimed at illustrating how simple it is to collect personal network data and how much can be inferred from that data. Sarcastically pitched as an “amateur data collector kit”, Probe Kit turns your wifi card into a “net” that catches the fluttering probe requests (data packets) emitted from the wireless devices of the people around you.
+
+(image: 3.png)
+
+(image: 1.png)
+
+(image: 2.png)
+
+For more information about Probe Kit, checkout the (link: http://probekit.brangerbriz.com text: official documentation page), the (link: http://probekit.io text: project page), and the (link: http://github.com/brannondorsey/probekit text: source code on GitHub). The Probe Kit app will be available for download here soon.

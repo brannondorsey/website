@@ -1,0 +1,11 @@
+Title: re: Zetamaze
+----
+Media: Video
+----
+Year: 2014
+----
+Text: 
+
+<iframe width="720" height="540" src="//www.youtube.com/embed/uPEOJ9xQbfo" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><br>
+
+_re: Zetamaze_ is brief documentary/music video style investigation into the (link: http://zetamaze.com text: Zetamaze) enigma. TL;DR I built a web game that quickly exploded on (link: http://4chan.org text: 4chan) and then I made this video to help understand the events that took place during Zetamaze’s short stint with virality.

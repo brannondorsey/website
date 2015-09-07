@@ -1,0 +1,20 @@
+Title: Between the Two of These
+----
+Media: Interactive Installation
+----
+Year: 2014
+----
+Text: 
+<iframe src="//player.vimeo.com/video/108675440" width="720" height="540" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><br>
+
+(link: http://betweenthetwoofthese.com text:Between the Two of These) is a public Media Art installation that was presented at the (link: http://www.daelab.com/ text: Digital Arts Entertainment Lab) (DAEL) in Atlanta, GA. As part of the ongoing (link: http://atlantawindowproject.wordpress.com/ text: Window Project), the projected work illuminated an 80ft wall between the hours of 6pm-6am nightly during the month of October, 2014. 
+
+Between the Two of These creates an active parallel between two present spaces. Using infrared cameras, the installation senses movements of passers-by in the physical space surrounding the projected screen and triggers the slow deconstruction of the virtual scene over time. This motion causes the fragmentation of a close-by object, and the inevitable geometric chaos of the scene. Once both objects have dissolved, their particles exchange and the space is fully restored. This constant de/reconstruction of virtual representation is an entry point to themes of the temporality of memory and the poetic duality of virtual and physical space.
+
+This work was done in collaboration with artist (link: http://yopablo.com/ text: Pablo Gnecco). Visit the (link: http://betweenthetwoofthese.com text:Between the Two of These) website for a full gallery of images and more information about the project.
+
+(image: 03.jpg alt: Image 1)
+
+(image: 04.jpg alt: Image 2)
+
+(image: 08.jpg alt: Image 3)

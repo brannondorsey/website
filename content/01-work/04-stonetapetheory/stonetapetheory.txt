@@ -5,7 +5,7 @@ Media: 8mm Film
 Year: 2012
 ----
 Text: 
-<iframe src="http://player.vimeo.com/video/36391654" width="720" height="540" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><br>
+<iframe src="//player.vimeo.com/video/36391654" width="720" height="540" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><br>
 
 The (link: http://en.wikipedia.org/wiki/Stone_Tape text: Stone Tape Theory) suggests that common matter and materials can absorb information from living beings, and later replay the recording of something that has already taken place. It is believed that, "In certain cases of hauntings and apparitions, some kind of local imprint, on material structures or places, has been left by some past events occurring to certain persons, who when on Earth, lived or were closely connected with that particular locality; an echo or phantom of these events becoming perceptible to those now living." This could explain repetitious paranormal events like invisible footsteps, whispers, or other reoccurring happenings associated with a location.
 
